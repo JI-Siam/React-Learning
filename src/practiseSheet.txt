@@ -1,0 +1,49 @@
+🌱 “Warm-Up” Mini-Projects (10–20 minutes each)
+
+These help you practice basic components & props.
+
+Greeting Card Component – A component that takes a name as a prop and displays “Hello, {name}!”
+
+Simple Avatar Card – Show an image + name + short text.
+
+Colorful Box – Render a div with a background color passed in as a prop.
+
+⚡ State & Events Basics
+
+These will help you click things and update UI—classic React fuel.
+
+Counter App – Increase/decrease/reset. Everyone builds one, and it’s weirdly satisfying.
+
+Toggle Light/Dark Box – A square that changes color when clicked.
+
+Show/Hide Text – Button toggles a paragraph’s visibility.
+
+⌨️ Handling Input
+
+Great for understanding controlled components.
+
+Live Text Previewer – Whatever you type in an input shows below in real time.
+
+Character Counter – Input box + “You typed X characters.”
+
+To-Do List Lite – Add items, display them. No deleting yet.
+
+🎛 Arrays & Simple Rendering
+
+Practice mapping data into components.
+
+FAQ Accordion (Very Simple) – Click a question → show answer.
+
+Emoji Reactions List – List of emojis stored in an array; clicking adds one to the page.
+
+Mini Contact List – Show a few people with names + phone numbers.
+
+📦 Beginner-Friendly “Mini-Apps”
+
+Still simple, but feel like “real apps.”
+
+Color Picker – Dropdown with colors → box updates color.
+
+Random Quote Generator – Preload 5–10 quotes; button shows a random one.
+
+Basic Calculator – Add/subtract/multiply/divide two inputs.
