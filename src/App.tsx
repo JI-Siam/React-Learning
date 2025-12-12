@@ -3,6 +3,10 @@ import ListGroup from "./components/ListGroup";
 import GreetingCard from "./components/Greeting";
 import Avatar from "./components/Avatar";
 import ColorfulBox from "./components/ColorfulBox";
+import Counter from "./components/Counter";
+import ToggleBox from "./components/ToggleBox";
+import ShowHideText from "./components/ShowHideText";
+import LiveText from "./components/LiveText";
 
 function App() {
   // always close react components otherwise sytanx error
@@ -15,6 +19,10 @@ function App() {
       ></Avatar>
 
       <ColorfulBox color="orange"></ColorfulBox>
+      <Counter></Counter>
+      <ToggleBox />
+      <ShowHideText />
+      <LiveText />
     </div>
   );
 }
